@@ -1,0 +1,43 @@
+[{ 
+  "nombre": "Juanita",
+  "apellido": "Fernandez",
+  "edad": 12,
+  "precio_asiento": 200,
+  "pagado": true,
+  "asiento": { 
+    "numero": 243,
+    "letra": "c"
+  },
+  "historial":[ 
+ { "salida":"NY",
+  "destino":"ARG"
+},
+{ "salida":"ARG",
+"destino":"NY"
+
+}
+  ]
+},
+{ 
+  "nombre": "Juanita",
+  "apellido": "Fernandez",
+  "edad": 12,
+  "precio_asiento": 200,
+  "pagado": true,
+  "asiento": { 
+    "numero": 243,
+    "letra": "c"
+  },
+  "historial":[ 
+ { "salida":"NY",
+  "destino":"ARG"
+},
+{ "salida":"ARG",
+"destino":"NY"
+
+}
+  ]
+}
+]
+
+
